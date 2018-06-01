@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	background-color: white;
+	box-sizing: border-box;
+background-color: white;
+	/*border-right-width: 60px;*/
+
+	/*margin: auto;*/
+
+
+}
+
+
+body{
+background-image: url("https://images.freeimages.com/images/large-previews/981/cow-1380252.jpg");	
+/*background-size: 1%;*/
+object-fit: fill;
+
+
+}
+
+
+input{
+	  
+	 font-size: 20px;
+}
+
